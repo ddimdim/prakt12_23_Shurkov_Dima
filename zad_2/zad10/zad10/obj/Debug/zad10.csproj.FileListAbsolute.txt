@@ -1,0 +1,32 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Form1.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Properties.Resources.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.pdb
+F:\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe.config
+F:\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe
+F:\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.pdb
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.AssemblyReference.cache
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.SuggestedBindingRedirects.cache
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Form1.resources
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Properties.Resources.resources
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.GenerateResource.cache
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.exe
+F:\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.pdb
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe.config
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.exe
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\bin\Debug\zad10.pdb
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Form1.resources
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.Properties.Resources.resources
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.GenerateResource.cache
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.exe
+C:\Users\shurk\Desktop\prakt_11(2-3)\zad_2\zad10\zad10\obj\Debug\zad10.pdb

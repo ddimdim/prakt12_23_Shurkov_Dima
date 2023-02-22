@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\bin\Debug\robot.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\bin\Debug\robot.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\bin\Debug\robot.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.Robot.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.Properties.Resources.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_11(2-3)\zad_3\robot\robot\obj\Debug\robot.pdb
